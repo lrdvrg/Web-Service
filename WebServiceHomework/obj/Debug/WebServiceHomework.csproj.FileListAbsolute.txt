@@ -1,0 +1,7 @@
+C:\Users\isaid\source\repos\WebServiceHomework\WebServiceHomework\bin\WebServiceHomework.dll.config
+C:\Users\isaid\source\repos\WebServiceHomework\WebServiceHomework\bin\WebServiceHomework.dll
+C:\Users\isaid\source\repos\WebServiceHomework\WebServiceHomework\bin\WebServiceHomework.pdb
+C:\Users\isaid\source\repos\WebServiceHomework\WebServiceHomework\obj\Debug\WebServiceHomework.csprojAssemblyReference.cache
+C:\Users\isaid\source\repos\WebServiceHomework\WebServiceHomework\obj\Debug\WebServiceHomework.csproj.CoreCompileInputs.cache
+C:\Users\isaid\source\repos\WebServiceHomework\WebServiceHomework\obj\Debug\WebServiceHomework.dll
+C:\Users\isaid\source\repos\WebServiceHomework\WebServiceHomework\obj\Debug\WebServiceHomework.pdb
